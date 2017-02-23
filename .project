@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>Badugi_AI01</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/Badugi.class</name>
+			<type>1</type>
+			<locationURI>PROJECT_LOC/bin/Badugi.class</locationURI>
+		</link>
+		<link>
+			<name>src/BadugiTest.class</name>
+			<type>1</type>
+			<locationURI>PROJECT_LOC/bin/BadugiTest.class</locationURI>
+		</link>
+	</linkedResources>
+</projectDescription>
